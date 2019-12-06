@@ -1,0 +1,8 @@
+*.pdf
+*~
+*.json
+
+samples/invoice/invoice
+cmd/sheets2inv/sheets2inv
+
+.DS_Store
